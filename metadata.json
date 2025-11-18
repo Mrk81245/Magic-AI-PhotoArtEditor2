@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Magic AI PhotoArtEditor2",
+  "description": "Un'applicazione avanzata di fotoritocco basata sul modello 'nano banana' (gemini-2.5-flash-image) della Gemini API. Carica le tue foto e usa il linguaggio naturale o filtri predefiniti per eseguire modifiche potenti come la rimozione dello sfondo, il miglioramento dei colori e altro ancora.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
